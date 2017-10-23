@@ -1,5 +1,5 @@
 PIC16F1827<br>
-コンパイラ：MPLAB XC8 C Compiler <font color=red>V1.21</font>（他のバージョンだと音程がずれる可能性あり）<br><br>
+コンパイラ：MPLAB XC8 C Compiler V1.21（他のバージョンだと音程がずれる可能性あり）<br><br>
 対応ノートNo.:12~91<br>
 最大4和音対応<br><br>
 MIDI入力：RB1<br><br>
