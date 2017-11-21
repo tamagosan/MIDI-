@@ -35,8 +35,8 @@ void main(void){
     unsigned char uflag[4]={0,0,0,0};
     float swork;
     OSCCON=0xf0;
-    TRISA=0;
-    TRISB=0b00000100;
+    TRISA=0x00;
+    TRISB=0x02;
     PORTA=0x00;
     PORTB=0x00;
     ANSELA=0x00;
