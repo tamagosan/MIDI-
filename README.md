@@ -5,4 +5,5 @@ PIC16F1827<br>
 MIDI入力：RB1<br><br>
 ～出力ピン マクロ設定～<br>
 OUT：ワンショットパルス出力(反転)<br>
-LED：動作確認用LED点灯用
+LED：動作確認用LED点灯用<br><br>
+https://eleken.jp/archives/383
